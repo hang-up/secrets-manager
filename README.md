@@ -35,6 +35,12 @@ Common use cases for Secrets Manager include:
 **GitLab** | [Docs](https://docs.keeper.io/secrets-manager/secrets-manager/integrations/gitlab-plugin)| |
 
 
+### Community integrations
+|    | Links     |
+|-----|-----------|
+**Circle CI** | [Docs](https://circleci.com/developer/orbs/orb/gravitee-io/keeper)  <br />[Source](https://github.com/gravitee-io/keeper-circleci-orb)   |
+
+
 ### Tools
 
 |    | Links     |  Test Status                                                                                                | Published Artifacts                                                                                                                                                                                         |
